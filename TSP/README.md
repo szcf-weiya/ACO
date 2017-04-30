@@ -24,6 +24,10 @@
 
 ![](feature.png)
 
+## 代码
+1. win 10 + Matlab: 6.966s
+2. Ubuntu 16.04 + Octave 4.0: 220.087s
+
 ## 参考文献
 
 MATLAB智能算法30个案例分析
